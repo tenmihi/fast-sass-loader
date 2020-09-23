@@ -45,7 +45,8 @@
     "cli-source-preview": "^1.0.0",
     "co": "^4.6.0",
     "fs-extra": "3.x",
-    "loader-utils": "^1.1.0"
+    "loader-utils": "^1.1.0",
+    "node-sass-asset-functions": "^0.1.0"
   },
   "peerDependencies": {
     "node-sass": "4.x || 3.x",
